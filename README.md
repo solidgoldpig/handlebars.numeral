@@ -80,7 +80,9 @@ Outputs a number as an ordinal
 
 To run the tests, cd to the handlebars.numeral directory
 
-    npm install && npm test### Unlicense
+    npm install && npm test
+
+### Unlicense
 
 handlebars.numeral is free and unencumbered software released into 
 the public domain.
