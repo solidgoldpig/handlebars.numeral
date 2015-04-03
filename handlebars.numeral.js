@@ -160,7 +160,6 @@
                 delete options.hash.params;
             }
             var params = options.hash;
-            console.log(number, params);
             return cardinal.numeral(number, params);
         });
 
