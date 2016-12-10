@@ -60,8 +60,8 @@ Outputs a number as an ordinal
 
 As a number
 
-    {{ordinal true}}
-    {{ordinal number=true}}           → «2001st»
+    {{ordinal 2001 true}}
+    {{ordinal 2001 number=true}}           → «2001st»
 
 #### currency
 
