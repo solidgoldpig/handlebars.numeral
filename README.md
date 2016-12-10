@@ -6,7 +6,7 @@ Content helpers providing [Numeral](http://numeraljs.com) and [Wolsey](http://wo
 
 ### Version
 
-0.1.1
+0.2.0
 
 ### Installation
 
