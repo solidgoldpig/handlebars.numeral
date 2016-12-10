@@ -1,11 +1,11 @@
 {
   "name": "handlebars.numeral",
   "description": "Handlebars helpers for numeral.js and wolsey",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "main": "handlebars.numeral.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/solidgoldpig/handlebars.numeral.git#0.1.1"
+    "url": "git://github.com/solidgoldpig/handlebars.numeral.git#0.2.0"
   },
   "homepage": "http://numeral.handlebars.solidgoldpig.com",
   "bugs": "https://github.com/solidgoldpig/handlebars.numeral/issues",
